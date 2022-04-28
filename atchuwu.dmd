@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="atchuwu" id="E0E03FB3-DF27-713A-43AE-E739431EE35E" version="3.5">
+<createdBy>2037612</createdBy>
+<createdTime>2022-04-28 20:10:21 UTC</createdTime>
+<ownerDesignName>atchuwu</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>E0E03FB3-DF27-713A-43AE-E739431EE35E</designId>
+</OSDM_Design>
